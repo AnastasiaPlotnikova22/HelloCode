@@ -1,7 +1,7 @@
 ﻿Console.Write("Введите им пользователя: ");
 string username = Clonsole.ReadLine();
 
-if(username.ToLower() == "маша");
+if(username.ToLower() == "маша")
 {
      Console.WriteLine("Ура, это МАША!");
 }
